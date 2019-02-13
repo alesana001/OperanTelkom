@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OperanTelkom</string>
+    <string name="title_home">Log UM</string>
+    <string name="title_dashboard">Laksda</string>
+    <string name="title_notifications">RAB</string>
+    <string name="title_Approve">Tagihan</string>
+</resources>
